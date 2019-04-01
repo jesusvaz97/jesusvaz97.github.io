@@ -955,7 +955,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
 
   20% {
-    opacity: 1;
+    opacity: 0;
     -webkit-transform: translateY(20px);
     transform: translateY(20px);
   }
